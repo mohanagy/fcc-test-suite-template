@@ -1,0 +1,21 @@
+body {
+    background: rgb(224, 235, 232) !important
+}
+#welcome-section {
+    margin-top: 30px;
+    height: 100vh;
+    justify-content: center;
+    padding-top: 350px
+}
+.nav-right { 
+    float: right !important;
+}
+h1, h4 {
+    vertical-align: middle !important
+}
+
+#welcome-heading, #welcome-sub-heading{
+    vertical-align: ;
+    text-align: center;
+    color: black
+}
